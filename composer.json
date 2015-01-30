@@ -8,7 +8,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "laravel/socialite": "~2.0",
+        "laravel/socialite": "~2.0"
     },
     "autoload": {
         "psr-4": {"Cviebrock\\SocialiteController\\": "src/"}
