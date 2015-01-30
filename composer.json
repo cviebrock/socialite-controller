@@ -1,0 +1,10 @@
+{
+    "name": "cviebrock/socialite-controller",
+    "authors": [
+        {
+            "name": "Colin Viebrock",
+            "email": "colin@viebrock.ca"
+        }
+    ],
+    "require": {}
+}
